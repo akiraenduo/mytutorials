@@ -1,0 +1,19 @@
+{
+    "images": {
+        "id": 85,
+        "license": 1,
+        "file_name": "picture140_jpeg.rf.092cf3ba9fa16082e570a616e45a3091.jpg",
+        "height": 417,
+        "width": 650,
+        "date_captured": "2021-06-15T08:26:01+00:00"
+    },
+    "annotations": [
+        {
+            "category_id": 0,
+            "iscrowd": 0,
+            "image_id": 85,
+            "id": 94,
+            "bbox": "156 44 528 344"
+        }
+    ]
+}
